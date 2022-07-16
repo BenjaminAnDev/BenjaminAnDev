@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on making a game.
 - 🌱 I’m currently learning python, sql.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminAnDev&show_icons=true&theme=tokyonight)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
