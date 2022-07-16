@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&show_icons=true&theme=스타일)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminAnDev&show_icons=true&theme=tokyonight)
 
 <!--
 **BenjaminAnDev/BenjaminAnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
