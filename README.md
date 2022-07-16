@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my profile!
+### Welcome to my profile!
 
 - 🔭 I’m currently working on making a game.
 - 🌱 I’m currently learning python, sql.
