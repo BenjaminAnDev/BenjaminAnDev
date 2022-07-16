@@ -2,7 +2,7 @@
 ### Welcome to my profile!
 
 - 🔭 I’m currently working on making a game.
-- 🌱 I’m currently learning python, sql.
+- 🌱 I’m currently learning Python, SQL, C++.
 
 <!--
 - 👯 I’m looking to collaborate on ...
